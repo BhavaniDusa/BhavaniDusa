@@ -3,7 +3,4 @@ Hi! 👋 I'm a passionate AWS DevOps Engineer with 4 years of experience in buil
 
 Over the years, I’ve worked extensively with tools like Terraform, Ansible, Docker, Kubernetes, and Jenkins, helping teams automate processes and reduce deployment time through continuous integration and continuous deployment (CI/CD) pipelines. I specialize in infrastructure-as-code (IaC) principles to create repeatable, versioned infrastructure deployments, ensuring consistency and security at scale.
 
-🌐 Socials:
-LinkedIn Medium
-
 

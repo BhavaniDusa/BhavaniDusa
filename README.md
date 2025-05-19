@@ -6,5 +6,4 @@ Over the years, I’ve worked extensively with tools like Terraform, Ansible, Do
 🌐 Socials:
 LinkedIn Medium
 
-💻 Tech Stack:
-YAML TypeScript PowerShell Windows Terminal Shell Script Apache Groovy Python Azure Angular Angular.js Astro Apache Spark Bootstrap Flask Flutter Next JS NodeJS Nodemon Nuxt JS jQuery Express.js WordPress Socket.io React Router React Query React Native React Apache Apache Maven Apache Tomcat Jenkins Nginx AmazonDynamoDB ApacheCassandra Firebase Supabase Postgres Redis MicrosoftSQLServer Adobe Adobe Acrobat Reader Sketch Figma Adobe Photoshop GitLab CI GitHub Actions Bitbucket GitHub GitLab AWS Terraform Docker Apache Tomcat
+
